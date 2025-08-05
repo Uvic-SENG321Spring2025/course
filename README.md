@@ -1,4 +1,4 @@
-# Official Course Repo for UVic SENG321: Requirements Engineering - Spring 2025
+# Official Course Repo for UVic SENG321: Requirements Engineering - Fall 2025
 
 # Official [Course outine](https://docs.google.com/document/d/1lIAfkCLYb_OpMs9Pn2eJzIaVxkIIcArO9WCxwbiTwMM/edit?usp=sharing) 
 
